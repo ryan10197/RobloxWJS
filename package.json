@@ -1,0 +1,19 @@
+{
+  "name": "robloxwjs",
+  "version": "1.0.0",
+  "description": "Easy discord to roblox web requests.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan10197/RobloxWJS.git"
+  },
+  "author": "Ryan Voytek",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ryan10197/RobloxWJS/issues"
+  },
+  "homepage": "https://github.com/ryan10197/RobloxWJS#readme"
+}
