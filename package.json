@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ryan10197/RobloxWJS/issues"
   },
-  "homepage": "https://github.com/ryan10197/RobloxWJS#readme"
+  "homepage": "https://github.com/ryan10197/RobloxWJS#readme",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
 }
