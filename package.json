@@ -1,6 +1,6 @@
 {
   "name": "robloxwjs",
-  "version": "1.1.10",
+  "version": "1.2.1",
   "description": "Easy discord to roblox web requests.",
   "main": "index.js",
   "scripts": {
