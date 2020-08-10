@@ -1,12 +1,12 @@
 {
   "name": "robloxwjs",
-<<<<<<< HEAD
-  "version": "1.2.1",
-=======
-  "version": "1.1.8",
->>>>>>> 8ae4263296688ddda6de35a6c4377d78d87dc640
-  "description": "Easy discord to roblox web requests.",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,13 +14,10 @@
     "type": "git",
     "url": "git+https://github.com/ryan10197/RobloxWJS.git"
   },
-  "author": "Ryan Voytek",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ryan10197/RobloxWJS/issues"
   },
-  "homepage": "https://github.com/ryan10197/RobloxWJS#readme",
-  "dependencies": {
-    "http": "0.0.1-security"
-  }
+  "homepage": "https://github.com/ryan10197/RobloxWJS#readme"
 }
